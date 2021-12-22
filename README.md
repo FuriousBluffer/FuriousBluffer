@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FuriousBluffer
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Django and Tensorflow.
-- 💞️ I’m looking to collaborate on mini projects.
+<!-- - 👀 I’m interested in Data Science. -->
+<!-- - 🌱 I’m currently learning Django and Tensorflow. -->
+<!-- - 💞️ I’m looking to collaborate on mini projects. -->
 <!-- - 📫 How to reach me... as of now, you can't. -->
 
 <!---
